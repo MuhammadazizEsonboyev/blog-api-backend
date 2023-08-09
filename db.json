@@ -7,5 +7,14 @@
       "data": "19-aprel, 2023",
       "theme": "Musobaqa"
     } 
+  ],
+  "course": [
+    {
+      "id": 1,
+      "course_info": "SMM onlayn",
+      "course_about": "Ijtimoiy tarmoqlar orqali turli biznes va loyihalarni rivojlantirishni o'rganasiz.",
+      "course_namr": "Marketing",
+      "course_img": "https://cdn.najottalim.uz/najottalim/courses/illustrations/95b2a0a8-84b1-4257-8006-875a0351f561.svg"
+    }
   ]
 }
